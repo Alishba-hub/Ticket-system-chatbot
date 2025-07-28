@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Ticket System</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <div class="header-icon">🎫</div>
+            <div class="header-info">
+                <h1>Support Assistant</h1>
+                <p id="status-text">Professional IT Support System</p>
+            </div>
+            <div class="status-badge status-online" id="status-indicator">Online</div>
+            <button class="new-ticket-btn" onclick="startNewTicket()">New Ticket</button>
+        </div>
+
+        <div class="chat-messages" id="messages">
+            <div class="welcome-screen" id="welcome">
+                <div class="welcome-icon">🎫</div>
+                <h2>Technical Support</h2>
+                <p>Welcome to our professional support system. Get expert assistance with your technical issues and questions through our intelligent ticket management system.</p>
+                <div class="quick-actions">
+                    <button class="quick-action" onclick="startNewTicket()">Create Support Ticket</button>
+                    <button class="quick-action" onclick="showSampleQuestions()">Common Issues</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="typing-indicator" id="typing">
+            Support agent is analyzing your request<span class="typing-dots"><span></span><span></span><span></span></span>
+        </div>
+
+        <div class="chat-input">
+            <div class="input-container">
+                <textarea 
+                    class="message-input" 
+                    id="messageInput" 
+                    placeholder="Type your message here..." 
+                    rows="1"
+                    disabled
+                ></textarea>
+            </div>
+            <button class="send-button" id="sendButton" onclick="sendMessage()" disabled>
+                <svg viewBox="0 0 24 24">
+                    <path d="M2,21L23,12L2,3V10L17,12L2,14V21Z"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
