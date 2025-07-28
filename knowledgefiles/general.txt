@@ -1,0 +1,9 @@
+General support knowledge base:
+- You can reach us via email, live chat, or phone during working hours.
+- Our support hours are 9:00 AM to 6:00 PM, Monday to Friday (excluding public holidays).
+- We aim to respond to all support tickets within 24 business hours, though response times may vary depending on volume.
+- For self-service help, please visit our Help Center which contains detailed step-by-step guides.
+- Support agents must not make guarantees about resolution timelines.
+- Agents should never provide technical advice outside documented procedures.
+- If unsure or if the issue involves another team, agents must inform the user that the request is being escalated or reviewed.
+- Support agents should always maintain a polite, helpful, and professional tone.

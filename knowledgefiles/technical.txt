@@ -1,0 +1,11 @@
+Technical support knowledge base:
+- If the app crashes, try restarting it as a first troubleshooting step.
+- Always ensure your device is connected to a stable internet connection before performing technical actions.
+- Clearing the app or browser cache often resolves UI-related issues such as buttons not working or display glitches.
+- For API errors, refer to the official developer documentation for error codes and troubleshooting guidance.
+- Support agents should not advise on undocumented or experimental features.
+- Do not suggest reinstalling the app unless it's the final option after basic steps have failed.
+- Never ask users to modify core files or perform root-level actions on their device.
+- Use clear, step-by-step instructions when describing technical fixes.
+- If the issue involves user data loss or privacy, escalate to the technical investigation team.
+

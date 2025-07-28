@@ -1,0 +1,8 @@
+Billing support knowledge base:
+- Invoices are sent monthly via email.
+- Refunds require approval from the finance team.
+- Users can update their payment method from the dashboard.
+- Billing disputes must be raised within 30 days.
+- Support agents must avoid making promises about refunds.
+- They may acknowledge refund requests and inform users that the request is being forwarded.
+- Final approval must come from the finance team.

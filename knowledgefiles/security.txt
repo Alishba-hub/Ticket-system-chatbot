@@ -1,0 +1,9 @@
+- Never share your password with anyone, including support agents.
+- If you notice any suspicious login activity, report it immediately via the official support channels.
+- Always enable Two-Factor Authentication (2FA) for improved account security.
+- Password reset links are valid for 10 minutes. After that, you must request a new one.
+- Support agents are not permitted to manually change passwords on behalf of users.
+- Agents must not diagnose security issues beyond documented procedures.
+- For all high-risk cases, agents should advise users to reset their password and enable 2FA.
+- Security-related tickets may require longer processing times due to investigation procedures.
+- Always maintain a serious, professional, and cautious tone in responses related to account security.
