@@ -70,6 +70,8 @@ Ticket → Classify → Retrieve → Draft → Review → Response/Retry/Escalat
 4. **Run vector store setup** (embedded in code)
    ```bash
    python vectorstore.py
+
+   To watch running tutorial download langgraph_chatbot.mp4 from given repository
    ```
 
 6. **Start application**
