@@ -2,6 +2,8 @@
 
 AI-powered support system with LangGraph that classifies tickets, retrieves context, generates responses, and includes quality review with retry logic.
 
+To watch running tutorial download langgraph_chatbot.mp4 from given repository
+
 ## Technologies Used
 
 **Core Framework:**
@@ -70,14 +72,14 @@ Ticket → Classify → Retrieve → Draft → Review → Response/Retry/Escalat
 4. **Run vector store setup** (embedded in code)
    ```bash
    python vectorstore.py
-
-   To watch running tutorial download langgraph_chatbot.mp4 from given repository
    ```
 
 6. **Start application**
    ```bash
    python backend.py
    # Access: http://localhost:5000
+
+   To watch running tutorial download langgraph_chatbot.mp4 from given repository
    ```
 
 ## Workflow & Tracing
