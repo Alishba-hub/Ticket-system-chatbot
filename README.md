@@ -118,7 +118,7 @@ All critical functions decorated with `@traceable` for complete observability:
 ## Key Files
 
 ```
-├── app.py                 # Flask API & frontend
+├── backend.py                 # Flask API & frontend
 ├── graph_const.py         # LangGraph workflow
 ├── classifier_node.py     # Ticket classification
 ├── retrieve_context.py    # RAG implementation
