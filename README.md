@@ -80,6 +80,7 @@ Ticket → Classify → Retrieve → Draft → Review → Response/Retry/Escalat
    # Access: http://localhost:5000
 
    To watch running tutorial download langgraph_chatbot.mp4 from given repository
+   and for detailed tutorial use drive link: https://drive.google.com/file/d/1NRUON-VyhGVkHkWzrenon5suZPAQ0WOx/view?usp=drive_link
    ```
 
 ## Workflow & Tracing
